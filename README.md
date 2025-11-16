@@ -1,5 +1,7 @@
 # 💫 About Me:
-B.Tech student in CS with a focus on AI & cybersecurity. Passionate about enhancing security & efficiency across industries. Always eager to learn & collaborate
+Machine Learning Engineer with 1 year of experience in data analysis, data cleaning, EDA, and building ML
+models using Python, Scikit-learn, and TensorFlow. Exploring Generative AI tools like LangChain and FAISS.
+
 
 
 ## 🌐 Socials:
