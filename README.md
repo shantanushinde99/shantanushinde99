@@ -18,11 +18,16 @@
 - 🌐 **Full-Stack Proficiency:** Building scalable backends, high-throughput AI APIs, and interactive frontend experiences.
 - ⚡ **Passion:** Designing production-grade intelligent systems that bridge cutting-edge research with seamless user experiences.
 
+**Currently I am...**
+- 🔭 Building **FinShield**, an autonomous banking risk and fraud investigator.
+- 🌱 Exploring **LiveKit integrations** for ultra-low latency voice models.
+- 👯 Looking to collaborate on **Open Source AI Agents** and **Multi-modal frameworks**.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <!-- AI / ML & Frameworks -->
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,fastapi,flask" /><br/>
   <!-- Cloud, Databases & DevOps -->
@@ -32,9 +37,9 @@
 </p>
 
 <details>
-  <summary><b>View Specialized Libraries & AI Tooling</b></summary>
+  <summary><b>✨ View Specialized Libraries & AI Tooling</b></summary>
   <br/>
-  <p align="left">
+  <p align="center">
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
     <img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white" />
@@ -58,7 +63,7 @@
 | **[AI Blood Disease Detection](https://github.com/shantanushinde99/AI-Powered-Blood-Disease-Detection-)** | End-to-end Deep Learning & CV pipeline for automated medical diagnostics | `PyTorch` `OpenCV` `CNNs` |
 
 <details>
-  <summary><b>Interactive Web Experiences & 3D Demos</b></summary>
+  <summary><b>🎮 Interactive Web Experiences & 3D Demos</b></summary>
   <br/>
   <ul>
     <li>🚗 <b><a href="https://lamborghini-website.pages.dev/">Lamborghini Revuelto Experience</a></b> — Cinematic 2700vh interactive 3D scroll canvas</li>
@@ -72,20 +77,34 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shantanushinde99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanushinde99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanushinde99&theme=tokyonight&hide_border=true&background=0D1117" height="195" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanushinde99&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
-</div>
+<br />
 
+<!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanushinde99&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00C853&line=38B2AC&point=FFFFFF" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shantanushinde99/shantanushinde99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shantanushinde99/shantanushinde99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shantanushinde99/shantanushinde99/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shantanushinde99&style=for-the-badge&color=00C853" alt="Profile Views" />
+  <h3>🤝 Let's Connect</h3>
+  <a href="https://www.linkedin.com/in/shantanu-shinde-a11b63170/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shantanushinde233@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shantanu-portfolio-site.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=shantanushinde99&style=flat-square&color=00C853" alt="Profile Views" />
 </div>
