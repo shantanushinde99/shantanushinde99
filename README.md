@@ -93,6 +93,11 @@
 
 ---
 
+## 📊 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/shantanu-shinde-a11b63170/">
