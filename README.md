@@ -109,7 +109,7 @@ I'm an **AI / Machine Learning Engineer** who builds production-grade intelligen
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/shantanushinde99/AI-Pipeline-Simulation/pull/1) in [shantanushinde99/AI-Pipeline-Simulation](https://github.com/shantanushinde99/AI-Pipeline-Simulation)
+1. ❌ Closed PR [#2](https://github.com/shantanushinde99/AI-Pipeline-Simulation/pull/2) in [shantanushinde99/AI-Pipeline-Simulation](https://github.com/shantanushinde99/AI-Pipeline-Simulation)
 <!--END_SECTION:activity-->
 
 ---
